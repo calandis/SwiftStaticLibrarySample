@@ -1,0 +1,6 @@
+framework module SwiftStaticLibrary {
+    umbrella header "SwiftStaticLibrary.h"
+
+    export *
+    module * { export * }
+}
